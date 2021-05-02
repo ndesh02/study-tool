@@ -1,0 +1,19 @@
+[gd_scene format=2]
+
+[node name="WeeklyCalendar" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+margin_left = 109.425
+margin_top = 36.0624
+margin_right = 133.425
+margin_bottom = 56.0624
+text = "hi"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="CheckBox" type="CheckBox" parent="Button"]
+margin_left = 45.4316
+margin_top = 18.3848
+margin_right = 69.4316
+margin_bottom = 42.3848
